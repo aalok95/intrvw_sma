@@ -19,7 +19,7 @@ b)	Final Output Snapshot :
 c)	Junit Coverage Snapshot :
 	![Junit] ()
 
-Note: (You can link directly to the raw version of an image from your image folder. Hence from section 1.1 if your GIT Link is : https://github.com/nescafe2018/intrvw_stind , then you can have the following text in your readme ![SonarLint] (https://github.com/nescafe2018/intrvw_stind /<Link of you image) )
+Note: (You can link directly to the raw version of an image from your image folder. Hence from section 1.1 if your GIT Link is : () , then you can have the following text in your readme ![SonarLint] () )
 
 Section 4  :
 
